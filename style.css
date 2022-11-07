@@ -1,0 +1,37 @@
+ a{
+    display:block;
+    font-size:10px;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: bisque;
+    list-style-type: nono;
+    padding: o;
+    width: 100%%;
+
+}
+a:hover{
+    background-color: blue;
+    color:red;
+}
+.active{
+    background-color: red;
+    display: block;
+    color: honeydew;
+}
+.bar{
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%; 
+    block-size: 150px;
+}
+.g{
+    font-size: 10px;
+
+}
+.ff{
+    font-size: 9px;
+    
+}
+
+
